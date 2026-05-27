@@ -33,13 +33,6 @@ The engine is designed as a showcase of **C++ systems programming** — low-leve
 - **Protocol:** Full UCI support
 - **Verification:** Perft (Performance Test) suite for 100% move generation accuracy
 
-### Roadmap  
-- [ ] Bitboards + magic bitboards (for even higher speed)
-- [ ] 50-move rule + 3-fold repetition detection
-- [ ] Improved time management + pondering
-- [ ] Advanced move ordering (PV-move, countermoves)
-- [ ] NNUE evaluation (long-term goal)
-
 ---
 
 ## 🛠 Tech Stack
